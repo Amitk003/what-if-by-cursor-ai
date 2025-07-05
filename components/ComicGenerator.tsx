@@ -111,8 +111,9 @@ export default function ComicGenerator() {
 
   // Function to extract pages from comic content
   const getPages = (content: string) => {
-    const pageMatches = content.match(/## Page \d+:.*?(?=## Page \d+:|$)/gs)
-    return pageMatches || [content]
+    // Split by page headers and filter out empty strings
+    const pageMatches = content.split(/## Page \d+:/).filter(page => page.trim())
+    return pageMatches.length > 0 ? pageMatches : [content]
   }
 
   const pages = currentComic ? getPages(currentComic.content) : []
