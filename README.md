@@ -1,5 +1,7 @@
 # What If Story Generator 🎬
 
+You can try here: https://what-if-stories.netlify.app/
+
 An AI-powered platform for generating alternate storylines and "what if" scenarios using Google's Gemini AI. Transform your favorite stories with a simple prompt!
 
 ## ✨ Features
