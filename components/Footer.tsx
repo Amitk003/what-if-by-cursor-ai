@@ -14,11 +14,11 @@ export default function Footer() {
     ],
     company: [
       { name: 'About', href: '#about' },
-      { name: 'Contact', href: 'mailto:wowamitk45125@gmail.com' },
+      { name: 'Contact', href: 'mailto:amit.work017@outlook.com' },
     ],
     support: [
       { name: 'Help Center', href: '#help' },
-      { name: 'Email Support', href: 'mailto:wowamitk45125@gmail.com' },
+              { name: 'Email Support', href: 'mailto:amit.work017@outlook.com' },
       { name: 'GitHub', href: 'https://github.com/Amitk003' },
     ],
     legal: [
@@ -31,7 +31,7 @@ export default function Footer() {
 
   const socialLinks = [
     { name: 'GitHub', icon: Github, href: 'https://github.com/Amitk003' },
-    { name: 'Email', icon: Mail, href: 'mailto:wowamitk45125@gmail.com' },
+    { name: 'Email', icon: Mail, href: 'mailto:amit.work017@outlook.com' },
   ]
 
   return (

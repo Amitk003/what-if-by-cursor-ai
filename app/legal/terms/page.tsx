@@ -94,8 +94,8 @@ export default function TermsOfService() {
               <h2 className="text-2xl font-semibold text-gray-900 mb-4">9. Contact Information</h2>
               <p className="text-gray-600 mb-4">
                 If you have any questions about these Terms of Service, please contact us at:{' '}
-                <a href="mailto:wowamitk45125@gmail.com" className="text-primary-600 hover:text-primary-700">
-                  wowamitk45125@gmail.com
+                <a href="mailto:amit.work017@outlook.com" className="text-primary-600 hover:text-primary-700">
+                  amit.work017@outlook.com
                 </a>
               </p>
             </section>

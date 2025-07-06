@@ -249,7 +249,7 @@ export default function Home() {
                   <span>GitHub</span>
                 </a>
                 <a
-                  href="mailto:wowamitk45125@gmail.com"
+                  href="mailto:amit.work017@outlook.com"
                   className="flex items-center space-x-2 text-primary-600 hover:text-primary-700 font-medium"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -401,10 +401,10 @@ export default function Home() {
               <h3 className="text-xl font-semibold text-gray-900 mb-2">Email Support</h3>
               <p className="text-gray-600 mb-4">Get help via email</p>
               <a
-                href="mailto:wowamitk45125@gmail.com"
+                href="mailto:amit.work017@outlook.com"
                 className="text-primary-600 hover:text-primary-700 font-medium"
               >
-                wowamitk45125@gmail.com
+                amit.work017@outlook.com
               </a>
             </motion.div>
 
